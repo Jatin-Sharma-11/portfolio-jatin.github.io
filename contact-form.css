@@ -1,0 +1,21 @@
+*{
+    top:0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("contact-form.gif") ;
+    position: relative;
+    
+    
+}
+#pre-loader{
+    background: #000 url(gif2.gif) no-repeat center center;
+    background-size: 30%;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+.gform{
+    margin-top: 10%;
+}
